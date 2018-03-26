@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AudioStripper": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\sebas\\Desktop\\music.txt C:\\Users\\sebas\\Desktop\\music"
+    }
+  }
+}

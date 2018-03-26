@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <Reference Include="libvideo">
+      <HintPath>C:\Users\sebas\Downloads\libvideo-master\libvideo-master\src\libvideo\bin\Debug\libvideo.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
