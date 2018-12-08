@@ -7,7 +7,7 @@ Get newest version here: https://github.com/Hellosager/youtube-audio-stripper/re
 
 After downloading AudioStripper.dll you can use it like this:
 
-<code>dotnet AudioStripper.dll <PathToLinkTextFile> <DirectoryToStoreAudio></code>
+<code>dotnet AudioStripper.dll \<PathToLinkTextFile\> \<DirectoryToStoreAudio\></code>
 
 There are a lot of public solutions to download Youtube audio. I created this library to make it possible to download more audios in one go.
 
