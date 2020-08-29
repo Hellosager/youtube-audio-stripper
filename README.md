@@ -5,7 +5,7 @@ This C# library can take a .txt-File with youtube links, and extract the audio o
 
 Get newest version here: https://github.com/Hellosager/youtube-audio-stripper/releases
 
-After downloading AudioStripper.dll you can use it like this:
+After downloading AudioStripper.zip you have to unpack the 3 includes files into a folder. Then you can move into this folder on the command line and use AudioStripper like this:
 
 <code>dotnet AudioStripper.dll \<PathToLinkTextFile\> \<DirectoryToStoreAudio\></code>
 
